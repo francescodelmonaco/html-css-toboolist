@@ -109,6 +109,22 @@ header {
     font-size: 10px;
 }
 
+.cat-website {
+    color: #ffffff;
+    background-color: #d863a0;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+.cat-sales {
+    color: #ffffff;
+    background-color: #b0c926;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
 /* Buttons */
 .button-1 {
     color: #ffffff;
