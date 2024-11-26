@@ -26,6 +26,7 @@ header {
     padding-left: 10px;
 }
 
+/* Sections */
 .add-button-section {
     background-color: #ffffff;
     margin: 0 auto;
@@ -33,6 +34,8 @@ header {
     margin-top: 30px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px;
+    padding-top: 10px;
+    padding-bottom: 15px;
 }
 
 .task-section {
@@ -40,8 +43,41 @@ header {
     margin: 0 auto;
     width: 80%;
     margin-top: 2px;
+    padding-top: 5px;
 }
 
+.task-title {
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.task-type {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.task-text {
+    margin-top: 15px;
+}
+
+.task-done {
+    color: #60bda4;
+    border: 1px, solid, #60bda4;
+    height: 5px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+}
+
+/* Categories */
+.cat-editorial {
+    color: #ffffff;
+    background-color: #47adf1;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+/* Buttons */
 .button-1 {
     color: #ffffff;
     background-color: #47adf1;
