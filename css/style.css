@@ -48,7 +48,7 @@ header {
 
 .task-title {
     margin-left: 40px;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 .task-type {
@@ -68,10 +68,42 @@ header {
     border-radius: 50%;
 }
 
+.task-not-done {
+    color: red;
+    border: 1px, solid, red;
+    height: 5px;
+    aspect-ratio: 1;
+    border-radius: 50%;
+}
+
 /* Categories */
 .cat-editorial {
     color: #ffffff;
     background-color: #47adf1;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+.cat-q1-goals {
+    color: #ffffff;
+    background-color: #9c72e4;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+.cat-recruiting {
+    color: #ffffff;
+    background-color: #64c0a8;
+    padding: 7px;
+    border-radius: 20px;
+    font-size: 10px;
+}
+
+.cat-mobile {
+    color: #ffffff;
+    background-color: #f29d33;
     padding: 7px;
     border-radius: 20px;
     font-size: 10px;
