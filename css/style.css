@@ -41,3 +41,21 @@ header {
     width: 80%;
     margin-top: 2px;
 }
+
+.button-1 {
+    color: #ffffff;
+    background-color: #47adf1;
+    padding: 7px;
+    border-radius: 5px;
+    margin-left: 40px;
+    font-size: 10px;
+}
+
+.button-2 {
+    color: #ccd1d6;
+    background-color: #ffffff;
+    border: 1px, solid, #ccd1d6;
+    padding: 7px;
+    border-radius: 5px;
+    font-size: 10px;
+}
