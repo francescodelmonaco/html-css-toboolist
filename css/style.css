@@ -65,18 +65,18 @@ header {
 }
 
 .task-done {
+    font-size: 10px;
     color: #60bda4;
     border: 1px, solid, #60bda4;
-    height: 5px;
-    aspect-ratio: 1;
+    padding: 3px;
     border-radius: 50%;
 }
 
 .task-not-done {
+    font-size: 10px;
     color: red;
     border: 1px, solid, red;
-    height: 5px;
-    aspect-ratio: 1;
+    padding: 3px;
     border-radius: 50%;
 }
 
